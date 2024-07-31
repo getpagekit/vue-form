@@ -1,4 +1,6 @@
 /*!
+ * vue-form是一个旧项目，用于GetPagekit 开发的过度
+ * 
  * vue-form v0.3.13
  * Released under the MIT License.
  */
